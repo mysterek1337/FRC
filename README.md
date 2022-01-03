@@ -10,3 +10,4 @@ Windows - ❌
 1.1 - Added some files, I will probably add rest of the files today..
 
 ❌ IM NOT RESPONSIBLE FOR ANY DAMAGES ❌
+FOR EDUCATIONAL PURPOSES ONLY..
